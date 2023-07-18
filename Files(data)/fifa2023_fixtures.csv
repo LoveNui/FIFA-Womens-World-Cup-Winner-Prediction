@@ -1,0 +1,65 @@
+home,score,away,year
+New Zealand ,Match 1, Norway,2023
+Philippines ,Match 3, Switzerland,2023
+New Zealand ,Match 17, Philippines,2023
+Switzerland ,Match 18, Norway,2023
+Switzerland ,Match 33, New Zealand,2023
+Norway ,Match 34, Philippines,2023
+Australia ,Match 2, Republic of Ireland,2023
+Nigeria ,Match 4, Canada,2023
+Canada ,Match 19, Republic of Ireland,2023
+Australia ,Match 22, Nigeria,2023
+Canada ,Match 35, Australia,2023
+Republic of Ireland ,Match 36, Nigeria,2023
+Spain ,Match 5, Costa Rica,2023
+Zambia ,Match 6, Japan,2023
+Japan ,Match 21, Costa Rica,2023
+Spain ,Match 20, Zambia,2023
+Japan ,Match 37, Spain,2023
+Costa Rica ,Match 38, Zambia,2023
+England ,Match 7, Haiti,2023
+Denmark ,Match 8, China,2023
+England ,Match 25, Denmark,2023
+China ,Match 26, Haiti,2023
+China ,Match 39, England,2023
+Haiti ,Match 40, Denmark,2023
+United States ,Match 9, Vietnam,2023
+Netherlands ,Match 10, Portugal,2023
+United States ,Match 23, Netherlands,2023
+Portugal ,Match 24, Vietnam,2023
+Portugal ,Match 41, United States,2023
+Vietnam ,Match 42, Netherlands,2023
+France ,Match 11, Jamaica,2023
+Brazil ,Match 13, Panama,2023
+France ,Match 28, Brazil,2023
+Panama ,Match 29, Jamaica,2023
+Panama ,Match 43, France,2023
+Jamaica ,Match 44, Brazil,2023
+Sweden ,Match 12, South Africa,2023
+Italy ,Match 14, Argentina,2023
+Argentina ,Match 27, South Africa,2023
+Sweden ,Match 30, Italy,2023
+Argentina ,Match 45, Sweden,2023
+South Africa ,Match 46, Italy,2023
+Germany ,Match 15, Morocco,2023
+Colombia ,Match 16, South Korea,2023
+South Korea ,Match 32, Morocco,2023
+Germany ,Match 31, Colombia,2023
+South Korea ,Match 47, Germany,2023
+Morocco ,Match 48, Colombia,2023
+Winner Group A,Match 49,Runner-up Group C,2023
+Winner Group C,Match 50,Runner-up Group A,2023
+Winner Group E,Match 51,Runner-up Group G,2023
+Winner Group G,Match 52,Runner-up Group E,2023
+Winner Group D,Match 54,Runner-up Group B,2023
+Winner Group B,Match 53,Runner-up Group D,2023
+Winner Group H,Match 56,Runner-up Group F,2023
+Winner Group F,Match 55,Runner-up Group H,2023
+Winner Match 49,Match 57,Winner Match 51,2023
+Winner Match 50,Match 58,Winner Match 52,2023
+Winner Match 53,Match 59,Winner Match 55,2023
+Winner Match 54,Match 60,Winner Match 56,2023
+Winner Match 57,Match 61,Winner Match 58,2023
+Winner Match 59,Match 62,Winner Match 60,2023
+Loser Match 61,Match 63,Loser Match 62,2023
+Winner Match 61,Match 64,Winner Match 62,2023
